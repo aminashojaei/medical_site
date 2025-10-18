@@ -1,0 +1,19 @@
+# Python / Django / Poetry ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.venv/
+venv/
+build/
+dist/
+staticfiles/
+media/
+*.log
+*.pot
+poetry.lock
+.idea/
+.vscode/
